@@ -1,0 +1,30 @@
+#tsparticles {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  z-index: 1;
+  margin: 0px;
+  background-color: rgba(0, 0, 0, 0.1); /* if you want overlay */
+
+
+}
+
+.app-title {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+}
