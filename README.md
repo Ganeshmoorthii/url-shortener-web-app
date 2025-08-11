@@ -1,12 +1,19 @@
-# React + Vite
+# 🔗 Short URL Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web app to shorten long URLs using the TinyURL API.  
+Built with **React**, **Vite**, and **Material-UI** for a smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Shorten any valid URL using the TinyURL API
+- Copy shortened URL with one click
+- Mobile-friendly layout
+- Particle background animation
+- Material-UI **Skeleton loader** while fetching
+- Material-UI **Alerts** for errors and success messages
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+<img width="1917" height="869" alt="Screenshot 2025-08-11 121831" src="https://github.com/user-attachments/assets/93af5cad-e574-4caf-a41e-b8e5e47e24b4" />
